@@ -18,7 +18,7 @@ You can find and get touch with me on these accounts!
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/botanaslann/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:btnaslan@gmail.com)
 
-## 💻Tech Stack,
+## Tech Stack 💻
 
 ![PHP](https://img.shields.io/badge/PHP-005ed1.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/js-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white) 
 
