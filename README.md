@@ -24,6 +24,4 @@ You can find and get touch with me on these accounts!
 
 ## GitHub Stats 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botanaslan)](https://github.com/botanaslan/github-readme-stats)</br>
 ![Botan Aslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=botanaslan)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=developersancho&theme=graywhite&hide_border=true)</br>
