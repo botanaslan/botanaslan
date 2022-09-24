@@ -26,4 +26,4 @@ You can find and get touch with me on these accounts!
 
 ![](https://komarev.com/ghpvc/?username=botanaslan&color=brightgreen)</br>
 ![Botan Aslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=botanaslan)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?botanaslan)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botanaslan)</br>
