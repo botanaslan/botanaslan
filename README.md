@@ -24,5 +24,5 @@ You can find and get touch with me on these accounts!
 
 ## GitHub Stats 📊
 
-![](https://komarev.com/ghpvc/?username=eyupcimen&color=brightgreen)</br>
+![](https://komarev.com/ghpvc/?username=botanaslan&color=brightgreen)</br>
 ![Botan Aslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=botanaslan)</br>
